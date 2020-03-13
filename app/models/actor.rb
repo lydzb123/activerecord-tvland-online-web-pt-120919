@@ -7,4 +7,5 @@ def full_name
   full_name << self.last_name
   full_name
 end
+
 end
